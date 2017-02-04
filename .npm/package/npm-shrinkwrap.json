@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lodash.bindall": {
+      "version": "4.4.0",
+      "resolved": "https://registry.npmjs.org/lodash.bindall/-/lodash.bindall-4.4.0.tgz",
+      "from": "lodash.bindall@4.4.0"
+    }
+  }
+}
