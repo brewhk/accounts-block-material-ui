@@ -2,7 +2,7 @@ Package.describe({
   name: 'brewhk:accounts-block-material-ui',
   version: '0.0.1',
   summary: 'Material UI components for the brewhk:accounts-block package',
-  git: '',
+  git: 'https://github.com/brewhk/accounts-block-material-ui.git',
   documentation: 'README.md'
 });
 
